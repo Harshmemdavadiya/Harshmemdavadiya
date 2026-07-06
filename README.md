@@ -15,11 +15,11 @@
 ---
 ### 💫 About Me
 
-- 🎓 Pursuing **MCA** at Kadi Sarva Vishwavidyalaya (CGPA: 9.29)
+- 🎓 Completed **Master of Computer Applications (MCA)** from **Kadi Sarva Vishwavidyalaya** (CGPA: **9.29**)
 - 💼 Former **Java Developer Intern** at KaiMani Systems
-- 💻 Focused on **Java backend development** with Spring Boot
-- 🌱 Currently deepening my skills in **Spring Boot, REST APIs, and Microservices**
-- 🚀 Interested in designing and building scalable backend systems
+- 💻 Focused on **Java Backend Development** with Spring Boot
+- 🌱 Currently enhancing my skills in **Spring Boot, REST APIs, Microservices, and System Design**
+- 🚀 Passionate about building scalable and high-performance backend applications
 - 📫 Reach me at **harshmali482@gmail.com**
 
 ---
