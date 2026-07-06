@@ -1,24 +1,18 @@
-<h1 align="center">Hi 👋, I'm Harsh Memdavadiya</h1>
-<h3 align="center">Java Backend Developer | Spring Boot Enthusiast | MCA Student</h3>
-
+<!-- Premium Wave Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Developer;JSP+%7C+Servlet+%7C+JDBC;Always+Learning+New+Technologies" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:00C2FF,100:6C63FF&text=Harsh%20Memdavadiya&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Java%20Backend%20Developer%20|%20Spring%20Boot&descAlignY=60&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Harshmemdavadiya">
-    <img src="https://komarev.com/ghpvc/?username=Harshmemdavadiya&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Harshmemdavadiya?tab=followers">
-    <img src="https://img.shields.io/github/followers/Harshmemdavadiya?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/harsh-memdavadiya-804257305">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Applications;REST+API+Developer;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshmemdavadiya&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+  <img src="https://img.shields.io/github/followers/Harshmemdavadiya?label=Followers&style=for-the-badge"/>
 </p>
 
 ---
-
 ### 💫 About Me
 
 - 🎓 Pursuing **MCA** at Kadi Sarva Vishwavidyalaya (CGPA: 9.29)
@@ -101,12 +95,6 @@ Two-player gameplay with winner and draw detection, built with a responsive inte
 
 ---
 
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Harshmemdavadiya&theme=tokyonight&no-frame=true&margin-w=15)
-
----
-
 ### 🌱 Currently Learning
 
 - Spring Boot (Advanced)
@@ -135,7 +123,8 @@ Two-player gameplay with winner and draw detection, built with a responsive inte
 </a>
 
 </p>
-----
+
+---
 > *"Code. Learn. Build. Repeat."* 🚀
 
 <div align="center">
